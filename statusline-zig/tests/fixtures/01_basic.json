@@ -1,0 +1,34 @@
+{
+  "session_id": "example-session-id",
+  "transcript_path": "/tmp/missing.jsonl",
+  "cwd": "/home/alex/repos/example/build",
+  "model": {
+    "id": "claude-opus-example",
+    "display_name": "Opus 4.5"
+  },
+  "workspace": {
+    "current_dir": "/home/alex/repos/example/build",
+    "project_dir": "/home/alex/repos/example"
+  },
+  "version": "2.0.75",
+  "output_style": { "name": "default" },
+  "cost": {
+    "total_cost_usd": 25.3960692,
+    "total_duration_ms": 52846427,
+    "total_api_duration_ms": 4635562,
+    "total_lines_added": 3531,
+    "total_lines_removed": 541
+  },
+  "context_window": {
+    "total_input_tokens": 157248,
+    "total_output_tokens": 233140,
+    "context_window_size": 200000,
+    "current_usage": {
+      "input_tokens": 8,
+      "output_tokens": 2,
+      "cache_creation_input_tokens": 1565,
+      "cache_read_input_tokens": 100958
+    }
+  },
+  "exceeds_200k_tokens": false
+}

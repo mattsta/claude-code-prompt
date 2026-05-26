@@ -1,0 +1,16 @@
+{
+  "model": { "display_name": "Sonnet 4.6" },
+  "workspace": { "current_dir": "/home/alex/projects/example" },
+  "transcript_path": "/tmp/does-not-exist.jsonl",
+  "context_window": {
+    "total_input_tokens": 50000,
+    "total_output_tokens": 12000,
+    "context_window_size": 200000
+  },
+  "cost": {
+    "total_cost_usd": 1.23,
+    "total_lines_added": 50,
+    "total_lines_removed": 0,
+    "total_api_duration_ms": 5000
+  }
+}

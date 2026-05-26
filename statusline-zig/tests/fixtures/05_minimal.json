@@ -1,0 +1,10 @@
+{
+  "model": { "display_name": "Haiku 4.5" },
+  "context_window": {
+    "context_window_size": 200000,
+    "current_usage": {
+      "input_tokens": 100,
+      "cache_read_input_tokens": 5000
+    }
+  }
+}
